@@ -1,0 +1,117 @@
+#nom {
+	font-family:'Lato', sans-serif;
+	font-size:60px;
+	font-weight:700;
+	color:#9A1B08;
+	position: absolute;
+	text-align: center;
+	text-shadow: 5px 2px 5px grey;
+	margin-left: 28%;
+}
+
+#ligne {
+	line-height: 30px;
+	outline-width: 5px;
+	outline-color: #EBAF80;
+}
+
+#metier {
+	font-family:'Lato', sans-serif;
+	position: absolute;
+	margin-top: 13%;
+	margin-left: 34%;
+	font-size:30px;
+	font-weight:350;
+	text-align: center;
+	text-shadow: 2px 1px 2px #9A1B08;
+}
+
+#photo {
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+
+#citation {
+	padding: 12px;
+	width: 68%;
+	background-color: #94825C;
+	border-style: outset;
+	border-width: 3px;
+	border-color: grey;
+	position: absolute;
+	margin-left: 27%;
+	margin-top: 20%;
+}
+
+#textecitation {
+	font-family: 'Philosopher', sans-serif;
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bolder;
+}
+
+#textauteur {
+	font-family: 'Philosopher', sans-serif;
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: right;
+}
+
+.format {
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	position: absolute;
+	display: inline-block;
+}
+
+#blocpres {
+	background-color: #FAC9C1;
+	padding: 21px;
+	width: 20%;
+	margin-top: 19%;
+	margin-left: 2%;
+}
+
+#blocformations {
+	background-color: #FAC9C1;
+	padding: 21px;
+	width: 25%;
+	margin-top: 35%;
+	margin-left: 2%;
+}
+
+#bloccentresint {
+	background-color: #FAC9C1;
+	padding: 21px;
+	width: 25%;
+	margin-top: 61%;
+	margin-left: 2%;
+}
+
+#bloccompetences {
+	background-color: #B7BF9A;
+	padding: 21px;
+	width: 63%;
+	margin-top: 35%;
+	margin-left: 31%;
+}
+
+#blocexperiences {
+	background-color: #B7BF9A;
+	padding: 21px;
+	width: 63%;
+	margin-top: 64%;
+	margin-left: 31%;
+	margin-bottom: 10%
+}
+
+.titles {
+	color: #9A1B08;
+	font-size: 18px;
+	font-weight: bolder;
+	text-decoration: underline;
+	text-indent: 1px;
+}
