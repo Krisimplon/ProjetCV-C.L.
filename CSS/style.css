@@ -6,20 +6,14 @@
 	position: absolute;
 	text-align: center;
 	text-shadow: 5px 2px 5px grey;
-	margin-left: 28%;
-}
-
-#ligne {
-	line-height: 30px;
-	outline-width: 5px;
-	outline-color: #EBAF80;
+	margin-left: 36%;
 }
 
 #metier {
 	font-family:'Lato', sans-serif;
 	position: absolute;
 	margin-top: 13%;
-	margin-left: 34%;
+	margin-left: 43%;
 	font-size:30px;
 	font-weight:350;
 	text-align: center;
@@ -28,7 +22,7 @@
 
 #photo {
 	position: absolute;
-	margin-top: 3%;
+	margin-top: 1%;
 	margin-left: 2%;
 }
 
@@ -68,42 +62,46 @@
 }
 
 #blocpres {
-	background-color: #FAC9C1;
-	padding: 21px;
-	width: 20%;
+	background-color: #D2B48C;
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	display: inline-block;
+	font-size: 18px;
+	padding: 15px;
+	width: 21%;
 	margin-top: 19%;
 	margin-left: 2%;
 }
 
 #blocformations {
-	background-color: #FAC9C1;
+	background-color: #D2B48C;
 	padding: 21px;
 	width: 25%;
-	margin-top: 35%;
+	margin-top: 32%;
 	margin-left: 2%;
 }
 
 #bloccentresint {
-	background-color: #FAC9C1;
+	background-color: #D2B48C;
 	padding: 21px;
 	width: 25%;
-	margin-top: 61%;
+	margin-top: 52%;
 	margin-left: 2%;
 }
 
 #bloccompetences {
-	background-color: #B7BF9A;
+	background-color: #D3D3D3;
 	padding: 21px;
 	width: 63%;
-	margin-top: 35%;
+	margin-top: 32%;
 	margin-left: 31%;
 }
 
 #blocexperiences {
-	background-color: #B7BF9A;
+	background-color: #D3D3D3;
 	padding: 21px;
 	width: 63%;
-	margin-top: 64%;
+	margin-top: 55%;
 	margin-left: 31%;
 	margin-bottom: 10%
 }
